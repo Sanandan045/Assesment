@@ -1,7 +1,7 @@
 # assesment
 
 screenshot 
-![myimage-alt-tag](https://github.com/Sanandan045/Assesment/blob/main/lib/img.jpeg)
+![myimage-alt-tag](https://github.com/Sanandan045/Assesment/blob/main/lib/img.jpg)
 
 A new Flutter project.
 
